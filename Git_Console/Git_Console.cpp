@@ -7,7 +7,7 @@ int main()
 {
     std::cout << "Hello GitHub!!\n";
 
-    std::cout << "Hello Branch!\n";
+    std::cout << "Hello Branch\n";
 
     std::cout << "third branch\n";
 }
