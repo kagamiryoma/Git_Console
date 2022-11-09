@@ -5,9 +5,9 @@
 
 int main()
 {
-    std::cout << "Hello Local GitHub!!\n";
+    std::cout << "Hello Marge GitHub!!\n";
 
-    std::cout << "Hello Local Conftlict Branchi!\n";
+    std::cout << "Hello Marge Conftlict Branchi!\n";
 }
 
 // プログラムの実行: Ctrl + F5 または [デバッグ] > [デバッグなしで開始] メニュー
